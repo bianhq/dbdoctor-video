@@ -7,7 +7,7 @@
   
 # dbdoctor-paper
 
-This is the temporary repository for the [full paper draft](https://github.com/bianhq/dbdoctor-paper/blob/main/DBdoctor.pdf) of DBdoctor.
+DBDoctor [full paper](https://github.com/bianhq/dbdoctor-paper/blob/main/DBdoctor.pdf) has been accepted by ICDE 2026 industry.
 
   </body>
 </html>
